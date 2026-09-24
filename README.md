@@ -84,14 +84,23 @@ The plant layout is designed to provide smooth material flow, minimum material h
 The layout includes designated areas for:
 
 Raw material receiving
+
 Raw material storage
+
 Cutting and profiling
+
 Machining area
+
 Conveyor/material movement
+
 Storage racks
+
 Inspection area
+
 Finished goods storage
+
 Loading and unloading area
+
 Safety fencing
 
 The plant layout is prepared using DELMIA Plant Layout Design. The uploaded layout shows the top-view arrangement of the fibre parts manufacturing facility, including the profile machine, raw material table, storage racks, conveyor system, material-handling equipment, finished-product storage and safety fencing.
@@ -102,8 +111,7 @@ Raw Material → Storage → Cutting → Profile Machining → Drilling → Fini
 
 This arrangement provides a simple and continuous flow of material through the manufacturing process and reduces unnecessary movement inside the plant.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4ba012b5-fc76-4189-ad90-67ecb9fe56ac" />
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f0457d89-9c46-45c9-bd0f-6be198973241" />
 
 Conclusion
 
