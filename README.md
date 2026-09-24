@@ -1,41 +1,110 @@
-PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
+PROCESS PLANNING AND PLANT LAYOUT FOR FIBRE PARTS
 
+Introduction
 
-Introduction This document presents the complete process planning and plant layout for the manufacture of a Transmission Shaft using CNC and NC machines. The objective is to achieve efficient material flow, high productivity, and safe working conditions.
+This document presents the complete process planning and plant layout for the manufacture of Fibre Parts using machining and material-handling equipment. The objective is to achieve smooth material flow, high productivity, proper storage, quality control, and safe working conditions.
 
-Product Description Product: Transmission Shaft Function: Transmits torque and rotary motion Application: Automotive and industrial machinery Production Type: Batch production Manufacturing Method: CNC Turning and NC machining
+Product Description
 
-Material Selection Material Selected: EN8 / AISI 1040 Steel Reason: High strength, good machinability, and suitability for CNC finish turning. Raw Material Form: Hot rolled round bar.
+Product: Fibre Parts / Fibre Components
 
-Process Planning The transmission shaft is manufactured using CNC and NC machines without grinding. Surface finish and dimensional accuracy are achieved through finish turning operations. Manufacturing Steps:
+Function: Used as structural, protective, and supporting components in industrial applications.
 
-Raw material cutting using band saw
+Application: Automotive, electrical, industrial and general engineering applications.
 
-Facing and centering on CNC turning centre
+Production Type: Batch production
 
-Rough turning
+Manufacturing Method: Cutting, profiling, machining and finishing operations
 
-Step and profile turning
+Material Selection
 
-Grooving and chamfering
+Material Selected: Fibre Reinforced Plastic (FRP) / Composite Fibre Sheet
+Reason: Lightweight, good strength-to-weight ratio, corrosion resistance, good dimensional stability, and suitable for industrial component manufacturing.
+Raw Material Form: Fibre sheets, plates, or preformed fibre material.
 
-Drilling or tapping (if required)
+Process Planning
 
-Finish turning
+The fibre parts are manufactured through a sequence of cutting, profiling, machining, finishing and inspection operations. The process flow is arranged to minimize material handling and unnecessary movement.
 
-Deburring
+Manufacturing Steps:
 
-Inspection
+Raw material receiving
+Raw material storage
+Material inspection
+Cutting to required size
+Profile cutting / machining
+Drilling or hole-making, if required
+Edge trimming and finishing
+Deburring and cleaning
+Final inspection
+Finished parts storage
+Packing and dispatch
+Machines and Equipment Used
+Raw Material Storage Table
+Profile Machine
+Cutting / Machining Machine
+Drilling Machine
+Conveyor System
+Storage Racks
+Finished Goods Storage
+Inspection Table
+Material Handling Trolley / Forklift
+Safety Fencing
+Time Estimation (Approximate)
 
-Machines Used • Band Saw Machine • CNC Turning Centre • NC / Conventional Machine • Inspection table with gauges
+Raw Material Handling: 5 min
+Cutting Operation: 8 min
+Profile Machining: 20 min
+Drilling / Additional Machining: 8 min
+Deburring & Cleaning: 5 min
+Inspection & Handling: 8 min
 
-Time Estimation (Approximate) Cutting: 4 min Facing & Turning: 35 min Drilling/Tapping: 6 min Deburring & Inspection: 9 min Total Cycle Time per Component: ~54 minutes
+Total Cycle Time per Component: ~54 minutes
 
-Quality Control Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
+The actual time may vary depending on the fibre material, component size, machining complexity, and production quantity.
 
-Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
+Quality Control
+
+Quality inspection is carried out at different stages of production. Vernier calipers, micrometers, gauges, and other suitable inspection instruments are used.
+
+Parameters checked include:
+
+Overall dimensions
+Length and width
+Hole diameter and position
+Profile accuracy
+Edge condition
+Surface quality
+Visual defects
+Final component condition
+Plant Layout
+
+The plant layout is designed to provide smooth material flow, minimum material handling, proper storage, and safe working conditions.
+
+The layout includes designated areas for:
+
+Raw material receiving
+Raw material storage
+Cutting and profiling
+Machining area
+Conveyor/material movement
+Storage racks
+Inspection area
+Finished goods storage
+Loading and unloading area
+Safety fencing
+
+The plant layout is prepared using DELMIA Plant Layout Design. The uploaded layout shows the top-view arrangement of the fibre parts manufacturing facility, including the profile machine, raw material table, storage racks, conveyor system, material-handling equipment, finished-product storage and safety fencing.
+
+Material Flow
+
+Raw Material → Storage → Cutting → Profile Machining → Drilling → Finishing → Inspection → Finished Goods Storage → Dispatch
+
+This arrangement provides a simple and continuous flow of material through the manufacturing process and reduces unnecessary movement inside the plant.
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4ba012b5-fc76-4189-ad90-67ecb9fe56ac" />
 
 
-Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
+Conclusion
+
+The proposed fibre parts process planning and plant layout provides an organized manufacturing system with efficient material flow, proper machine arrangement, adequate storage, quality inspection, and safe working conditions. The DELMIA-based layout helps visualize the factory arrangement and supports efficient production planning and material handling.
