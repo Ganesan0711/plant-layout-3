@@ -111,6 +111,8 @@ Raw Material → Storage → Cutting → Profile Machining → Drilling → Fini
 
 This arrangement provides a simple and continuous flow of material through the manufacturing process and reduces unnecessary movement inside the plant.
 
+[INSERT DELMIA SIMULATION IMAGE HERE]
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f0457d89-9c46-45c9-bd0f-6be198973241" />
 
 Conclusion
